@@ -1,5 +1,5 @@
-Package: (com.yourname.packagename)
-Name: (Tweak Name) 
+Package: (com.gamehelper.updater)
+Name: MCOC Game Helper 
 Version: (Version Number)
 Size: (Size in Bytes)
 Architecture: iphoneos-arm
@@ -7,8 +7,8 @@ Description: (Tweak Description)
 Maintainer: (Name) <email@provider.com>
 Author: (Name) <email@provider.com>
 Section: (Cydia Section)
-MD5sum:
-SHA1sum:
-SHA256sum:
-Filename: debs//(Tweak Name).deb
+MD5sum: 232c446cfd8a2a3c586c3c1be854a853
+SHA1sum: 734917f558385afbb0009d1338d82bee9cb5ef18
+SHA256sum: 9d3b974d9e29bd985c9defb19240eb1a8f2972ed236cf6484cc5062c92922621
+Filename: debs//updater.deb
 
