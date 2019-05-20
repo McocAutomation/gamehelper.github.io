@@ -7,8 +7,8 @@ Description: (Tweak Description)
 Maintainer: (Name) <email@provider.com>
 Author: (Name) <email@provider.com>
 Section: (Cydia Section)
-MD5sum: 232c446cfd8a2a3c586c3c1be854a853
-SHA1sum: 734917f558385afbb0009d1338d82bee9cb5ef18
-SHA256sum: 9d3b974d9e29bd985c9defb19240eb1a8f2972ed236cf6484cc5062c92922621
+MD5sum: 6a62037476393ae4724bd2fe48d54e57
+SHA1sum: 2aafea6bee860a423160f834ce2a82cadf822e7c
+SHA256sum: 6a9f68ae1b95385ffcafb9e9cf7781140c4eabb210a2e1c1fd3f180b7735e5aa
 Filename: debs//updater.deb
 
