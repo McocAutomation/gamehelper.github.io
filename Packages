@@ -1,12 +1,11 @@
-Package: (com.gamehelper.updater)
+Package: com.gamehelper.updater
 Name: MCOC Game Helper 
-Version: (Version Number)
-Size: (Size in Bytes)
+Version: 1.2
+Size: 6080
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
+Description: Adds the bot updater to your autotouch scripts
+Maintainer: Automation Team <mcocautomationteam@gmail.com>
+Author: Automation Team <mcocautomationteam@gmail.com>
 MD5sum: 6a62037476393ae4724bd2fe48d54e57
 SHA1sum: 2aafea6bee860a423160f834ce2a82cadf822e7c
 SHA256sum: 6a9f68ae1b95385ffcafb9e9cf7781140c4eabb210a2e1c1fd3f180b7735e5aa
